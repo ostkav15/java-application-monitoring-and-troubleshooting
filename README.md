@@ -1,4 +1,4 @@
-Java Application Monitoring and Troubleshooting Basics 1
+Java Application Monitoring and Troubleshooting Basics
 ======================================================
 _4. Java Application as a Runtime White Box: App running, JVM and application monitoring, troubleshooting, faults analysing and tuning._ 24 hrs / 3 days.
 
